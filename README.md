@@ -5,7 +5,7 @@
 
 <p align="center">
   A passionate <b>C++ Developer</b> from India 🇮🇳<br/>
-  Exploring Java, Backend Development and Open Source 🚀
+   A Software Engineer 
 </p>
 
 <!--
