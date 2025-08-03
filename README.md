@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQyMTM4NzIsIm5iZiI6MTc1NDIxMzU3MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAzVDA5MzI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExMjkzNDI5YWQ2Nzk5ZTJmMzI3OTM5ZjQ4OGRjMTNlOTljYjU1ZTUwYzc2NTgxN2JiMTQ0MDc3NGU5NjBiOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FiOpcYKpNWojz9LQU5iZvEO9dpfAF5DFX1bf-QSkdS0" alt="Welcome Banner" width="80%" />
 </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7C443&center=true&vCenter=true&width=435&lines=Hey!+I+am;Subhangi;C%2B%2B+Developer" alt="Typing Animation" />
+</h1>
 ## Hi there I am Subhangi👋
 
 <!--
