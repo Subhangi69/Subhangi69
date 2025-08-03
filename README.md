@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" alt="welcome banner" width="80%" />
+</p>
 ## Hi there I am Subhangi👋
 
 <!--
