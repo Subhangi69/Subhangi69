@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Subhangi69/Subhangi69/blob/main/GITRIT.gif?raw=true" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/Subhangi69/Subhangi69/blob/main/Hey! I am Subhangi C++ Developer.gif?raw=true" alt="Welcome Banner" width="100%" />
 </p>
 ## Hi there I am Subhangi👋
 
