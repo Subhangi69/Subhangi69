@@ -5,7 +5,7 @@
 
 <p align="center">
   A passionate <b>C++ Developer</b> from India 🇮🇳<br/>
-   A Software Engineer 
+   A Computer Engineer 
 </p>
 <h3 align="center">Connect with me 📫</h3>
 
