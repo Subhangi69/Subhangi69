@@ -10,7 +10,8 @@
 <h3 align="center">Connect with me 📫</h3>
 
 <p align="center">
-  <a href="mailto:subhkit100@gmail.com">
+  <!-- Gmail (directly opens Gmail compose) -->
+  <a href="https://mail.google.com/mail/?view=cm&to=subhkit100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/subhangi69/">
