@@ -2,9 +2,6 @@
   <img src="https://github.com/Subhangi69/Subhangi69/blob/main/Hey! I am Subhangi C++ Developer.gif?raw=true" alt="Welcome Banner" width="100%" />
 </p>
 <h2 align="center">Hey there 👋, I'm Subhangi</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhangi69&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 
 <p align="center">
   A passionate <b>C++ Developer</b> from India 🇮🇳<br/>
