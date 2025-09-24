@@ -2,6 +2,7 @@
   <img src="https://github.com/Subhangi69/Subhangi69/blob/main/Hey! I am Subhangi C++ Developer.gif?raw=true" alt="Welcome Banner" width="100%" />
 </p>
 <h2 align="center">Hey there 👋, I'm Subhangi</h2>
+![Profile views](https://komarev.com/ghpvc/?username=Subhangi69&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
   A passionate <b>C++ Developer</b> from India 🇮🇳<br/>
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=Subhangi69&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!--
 **Subhangi69/Subhangi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
