@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/subhangi69/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="mailto:subhangikit2001@gmail.com?subject=Hello%20Subhangi">
+<a href="mailto:subhangikit2001@gmail.com?subject=Hello%20Subhang">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/subhangi02/">
